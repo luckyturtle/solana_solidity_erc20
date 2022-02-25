@@ -1,0 +1,23 @@
+{
+  "name": "solana_solidity_erc20",
+  "version": "1.0.0",
+  "description": "ERC-20 smart contract using Solidity on Solana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockdev055/solana_solidity_erc20.git"
+  },
+  "author": "rockdev055",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rockdev055/solana_solidity_erc20/issues"
+  },
+  "homepage": "https://github.com/rockdev055/solana_solidity_erc20#readme",
+  "dependencies": {
+    "@solana/solidity": "^0.0.18",
+    "@solana/web3.js": "^1.35.1"
+  }
+}
